@@ -184,6 +184,10 @@
     padding: .5em 1em;
 }
 
+.linkfb{
+
+    float: left;
+}
 
 @-webkit-keyframes bounce {
 from {
